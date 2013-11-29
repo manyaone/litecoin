@@ -1,0 +1,4 @@
+litecoin
+========
+
+litecoin wallet
